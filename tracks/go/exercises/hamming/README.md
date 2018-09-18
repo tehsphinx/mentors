@@ -34,7 +34,7 @@ func Distance(a, b string) (int, error) {
 
 It might be good to confirm this exercise as soon as the solution is within reasonable scope. That way 
 students can keep their enthusiasm and continue on the main track. Many students will respond to the
-improvement suggests even if the solution is approved.
+suggestions even if the solution is approved.
 
 The most common feedback revolves around:
 
